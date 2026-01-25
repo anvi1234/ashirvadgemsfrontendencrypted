@@ -2468,16 +2468,7 @@
  .single-product-slider .carousel-indicators li.active img {
      opacity: 1;
 }
- .carousel-indicators{
-     position: relative;
-     bottom: 0;
-     background: #000000;
-}
- .carousel-indicators li{
-     width: 30%;
-     height: 100%;
-     cursor: pointer;
-}
+
  .single-product-details h2{
      color: #000000;
      font-weight: 700;
